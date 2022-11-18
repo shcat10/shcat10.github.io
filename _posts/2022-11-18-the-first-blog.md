@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 本站第一个blog
-categories: Vim
+categories: Blog
 description: 简单记录
 keywords: 
 ---
