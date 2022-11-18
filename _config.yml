@@ -153,7 +153,7 @@ gitalk:
     clientSecret: 69f909d32b2ef63816bb800c8cf5682762c3a226
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: shcat10/blog-comments
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
     repo: shcat10/blog-comments
