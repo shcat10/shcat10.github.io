@@ -4,8 +4,8 @@
 baseurl:
 url: https://blog.shcat.top
 date_format: "ordinal"
-title: 码志
-subtitle: "shcat"
+title: 🐱志
+subtitle: "🐱"
 description: "shcat的个人博客"
 keywords: 码志, shcat
 timezone: Asia/Shanghai
@@ -29,7 +29,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2022.11.18
     # My Popular Repositories
     side_bar_repo:
         enabled: true
