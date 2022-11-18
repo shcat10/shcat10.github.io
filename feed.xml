@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://blog.shcat.top/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.shcat.top/" rel="alternate" type="text/html" /><updated>2022-11-18T15:43:35+08:00</updated><id>https://blog.shcat.top/feed.xml</id><title type="html">🐱志</title><subtitle>shcat的个人博客</subtitle><author><name>shcat</name></author><entry><title type="html">本站第一个blog</title><link href="https://blog.shcat.top/2022/11/18/the-first-blog/" rel="alternate" type="text/html" title="本站第一个blog" /><published>2022-11-18T00:00:00+08:00</published><updated>2022-11-18T00:00:00+08:00</updated><id>https://blog.shcat.top/2022/11/18/the-first-blog</id><content type="html" xml:base="https://blog.shcat.top/2022/11/18/the-first-blog/">&lt;h2 id=&quot;开始&quot;&gt;开始&lt;/h2&gt;
+&lt;p&gt;最近在学习尚筹网的项目，因为没有听课，所以找了几个个人整理的步骤跟着做，其中一个是在GitHub上的个人Blog站。&lt;/p&gt;
+
+&lt;p&gt;之前也接触过此类，也用过宝塔搞过wordpress，但苦于服务器时好时坏（这次宕机两周了）。平时也用notion做刷题笔记。今日拉了一个模板直接使用，并简单配置了一下评论模块。希望可以长期使用（坚持记录）。&lt;/p&gt;
+
+&lt;h2 id=&quot;碎碎念&quot;&gt;碎碎念&lt;/h2&gt;
+&lt;p&gt;提到notion，好久没刷题了。上周yyy面试被问的上台阶问题，只想到了递归，还没具体做一下。&lt;/p&gt;
+
+&lt;p&gt;记录一下耻辱的刷题数：31.（刷了一年了🙂）&lt;/p&gt;
+
+&lt;p&gt;今年秋招结束了基本，互联网寒冬确实不是闹着玩的。抓紧准备找实习。&lt;/p&gt;
+
+&lt;p&gt;此文作为一个开始。&lt;/p&gt;</content><author><name>shcat</name></author><category term="Blog" /><summary type="html">开始 最近在学习尚筹网的项目，因为没有听课，所以找了几个个人整理的步骤跟着做，其中一个是在GitHub上的个人Blog站。</summary></entry></feed>
